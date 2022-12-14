@@ -105,11 +105,13 @@ public class GameCardServices {
                     System.out.println(players.get(i).toString());
                     System.out.println(OutputColors.ANSI_GREEN_BACKGROUND + "***** You win *****" + OutputColors.ANSI_RESET);
                     System.out.println();
+                    System.out.println();
                     break;
                 } else if (sumacartas > 21) {
                     System.out.println();
                     System.out.println(players.get(i).toString());
                     System.out.println(OutputColors.ANSI_RED_BACKGROUND + "***** You lose *****" + OutputColors.ANSI_RESET);
+                    System.out.println();
                     System.out.println();
                     break;
                 } else {
@@ -139,7 +141,7 @@ public class GameCardServices {
                         System.out.println();
 
                         if (i != players.size() - 1) {
-                            System.out.println(OutputColors.ANSI_RED_BACKGROUND + "NEXT USER!!!" + OutputColors.ANSI_RESET);
+                            System.out.println("NEXT USER!!!");
                         }
 
                         System.out.println();
