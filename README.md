@@ -30,4 +30,4 @@
 
 <b>Game Screen Print</b>
 
-![game](./media/screenshot.jpg)
+![game](./media/screenshot.png)
