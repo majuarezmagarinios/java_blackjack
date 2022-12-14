@@ -9,6 +9,7 @@
 <b>Notes</b>
 * Developer with Java 11.
 * Is ready to be used.
+* There is a new version in development.
 
 <br/>
 
