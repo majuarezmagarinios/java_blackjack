@@ -10,7 +10,6 @@
 
 * Developer with Java 11.
 * Is ready to be used.
-* New version in development.
 
 <br/>
 
